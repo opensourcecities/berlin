@@ -14,7 +14,7 @@ I want to build a list where we can see and learn about each other's code, just 
 
 These projects have been developed mainly in Berlin, or by Berliners.
 
-_Add some here_
+- [City Monitor](https://github.com/OdinMB/city-monitor) - Real-time city dashboard aggregating 20+ public data feeds for Berlin. Easy to adjust to other cities.
 
 ## GitHub Organizations
 
